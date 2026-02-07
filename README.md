@@ -10,11 +10,20 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/GEEKProtocol0110/Geek-protocol/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://geek-nu.vercel.app"><img src="https://img.shields.io/badge/website-live-brightgreen.svg" alt="Website"></a>
+  <a href="https://kas.fyi/token/krc20/GEEK"><img src="https://img.shields.io/badge/token-KRC--20-orange.svg" alt="Token"></a>
+  <a href="https://github.com/GEEKProtocol0110/Geek-protocol/issues"><img src="https://img.shields.io/github/issues/GEEKProtocol0110/Geek-protocol.svg" alt="Issues"></a>
+  <a href="https://github.com/GEEKProtocol0110/Geek-protocol/stargazers"><img src="https://img.shields.io/github/stars/GEEKProtocol0110/Geek-protocol.svg" alt="Stars"></a>
+</p>
+
+<p align="center">
   <a href="https://geek-nu.vercel.app">Website</a> •
   <a href="https://kas.fyi/token/krc20/GEEK">Token</a> •
   <a href="https://kaspa.com/tokens/marketplace/token/GEEK">Marketplace</a> •
   <a href="https://x.com/geekonkas">X</a> •
-  <a href="https://t.me/GEEKonKAScommunity">Telegram</a>
+  <a href="https://t.me/GEEKonKAScommunity">Telegram</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 ---
@@ -85,3 +94,98 @@ The experience is guided by **A.C.E.**, the protocol’s AI “mind,” and fuel
 apps/web        # Next.js frontend
 packages/*      # shared UI/types (optional as it grows)
 docs/           # developer docs (not pitch deck PDFs)
+```
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+ and npm/yarn
+- Kasware wallet extension
+- Basic understanding of Web3/crypto
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/GEEKProtocol0110/Geek-protocol.git
+cd Geek-protocol
+
+# Install dependencies (once app structure is in place)
+npm install
+
+# Run development server
+npm run dev
+```
+
+---
+
+## Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to:
+- Report bugs
+- Suggest features
+- Submit pull requests
+- Review code
+
+---
+
+## Community & Support
+
+- 💬 **Telegram:** [Join our community](https://t.me/GEEKonKAScommunity)
+- 🐦 **X (Twitter):** [@geekonkas](https://x.com/geekonkas)
+- 📧 **Email:** [Contact us](mailto:contact@geek-protocol.com)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/GEEKProtocol0110/Geek-protocol/issues)
+
+---
+
+## Roadmap
+
+### Q1 2026 ✅
+- [x] $GEEK token launch on Kaspa
+- [x] Community establishment
+- [ ] MVP Testnet launch
+
+### Q2 2026 🚀
+- [ ] Mainnet beta launch
+- [ ] NFT character system
+- [ ] Marketplace v1
+
+### Q3-Q4 2026 🎯
+- [ ] Mobile app
+- [ ] Community content engine
+- [ ] Advanced gamification features
+
+*See our [detailed roadmap](docs/ROADMAP.md) for more information.*
+
+---
+
+## Security
+
+Found a security vulnerability? Please read our [Security Policy](SECURITY.md) and report responsibly.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Acknowledgments
+
+- Built on [Kaspa](https://kaspa.org) blockchain
+- Powered by the $GEEK community
+- Inspired by geek culture worldwide 🤓
+
+---
+
+<p align="center">
+  Made with ❤️ by the Geek Protocol Team
+</p>
+
+<p align="center">
+  <sub>© 2026 Geek Protocol. All rights reserved.</sub>
+</p>
